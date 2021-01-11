@@ -69,7 +69,7 @@ En Ker Belgrano todo se conjuga para asegurar el éxito de su evento!
 		       </div>
 	       </div>
         
-        
+		   <?php include("mensaje_whatsapp.php");?>   
         
         <?php include("footer.php");?>
 <script src="js/jquery.bxslider1/jquery.bxslider.js"></script>

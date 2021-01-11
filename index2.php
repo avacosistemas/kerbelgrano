@@ -190,7 +190,7 @@ do{
 	        <input type="hidden" name="languageid" value="2">
         </form>
         </div><!--  -->
-        
+        <?php include("mensaje_whatsapp.php");?>   
         <?php include("footer.php");?>
         
         
