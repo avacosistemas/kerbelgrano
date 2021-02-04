@@ -97,8 +97,8 @@ do{
         
         </div>
         
-        
-        <div class="covid" style="background-color:#A6A6A4; text-align:center; font-size:16px;"><a href="KER_Protocolo_Covid-19.pdf" target="_blank" style="color:#fff; display:block; padding:15px;">VER PROTOCOLO COVID-19 | Programa Stay Safe in Ker</a></div>
+<?php include("protocolo_covid.php");?>          
+
         <div class="stay">
 	        <div class="col-md-6">
 		        <div class="pad wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.6s">

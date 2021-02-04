@@ -37,7 +37,8 @@
         </form>
         </div><!--  -->
         </div>
-        <div class="covid" style="background-color:#A6A6A4; text-align:center; font-size:16px;"><a href="KER_Protocolo_Covid-19.pdf" target="_blank" style="color:#fff; display:block; padding:15px;">VER PROTOCOLO COVID-19 | Programa Stay Safe in Ker</a></div>
+
+<?php include("protocolo_covid.php");?>  
         
        <div class="contacto_ker" id="contacto" style="background-image:url(https://kerrecoleta.com.ar/img/KER_RECOLETA_CONTACTO_fondo.jpg);">
 	       <div class="container">

@@ -9,6 +9,11 @@
         
        <div class="salones">
 	       <img src="KER_BELGRANO_Website/EVENTOS/KER_BELGRANO_EVENTOS_banner_01.jpg" alt="KER_BELGRANO_EVENTOS_banner_01" class="img-responsive" />
+       </div>
+
+<?php include("protocolo_covid.php");?>  
+
+       <div class="salones">
 	       <div class="col-md-6" style="padding-left:0;">
 		       <img src="KER_BELGRANO_Website/EVENTOS/KER_BELGRANO_EVENTOS_foto_01.jpg" alt="KER_BELGRANO_EVENTOS_banner_01" class="img-responsive" />
 	       </div>
